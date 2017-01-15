@@ -2,7 +2,7 @@ var database =
 [
 	['0LDT1M3R', 'Top', 'Roosevelt Valor', 'End Of Empires'],
 	['0R1G1N4L', '', 'Sabre Turbo Custom', ''],
-	['1985_', 'Mid', 'Tropos Rallye', 'Hip to be Square'],
+	['1985', 'Mid', 'Tropos Rallye', 'Hip to be Square'],
 	['1MSORAD', 'Mid', 'Tropos Rallye', ''],
 	['2FA5T4U', 'Top', 'Reaper', ''],
 	['31GHT135', 'Mid', 'Tropos Rallye', ''],
@@ -94,5 +94,5 @@ var database =
 	['W1D3B0D', 'Top', 'Omnis', ''],
 	['W1NN1NG', 'Mid', 'Zentorno', 'Molten Metal'],
 	['W1P3OUT', 'Mid', 'Coquette BlackFin', ''],
-	['WID3BOY', 'Mid', 'Entity XF', 'Hip to be Square'],
+	['WID3BOY', 'Mid', 'Entity XF', ''],
 ];
