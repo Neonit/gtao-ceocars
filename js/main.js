@@ -1,7 +1,7 @@
 function generateTable()
 {
 	var table = $('<table/>');
-	$('<thead><tr><th>Plate</th><th>Range</th><th>Name</th><th>Notes</th></tr></thead>')
+	$('<thead><tr><th>Plate</th><th>Range</th><th>Name</th><th>Collection</th></tr></thead>')
 		.appendTo(table);
 	var tbody = $('<tbody/>').appendTo(table);
 
