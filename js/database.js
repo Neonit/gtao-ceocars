@@ -91,7 +91,7 @@ var database =
 	['V1P', 'Top', 'Mamba', ''],
 	['V1S10NRY', 'Standard', 'Alpha', 'Molten Metal'],
 	['V4LOR', 'Top', 'Roosevelt Valor', ''],
-	['W1D3B0D', 'Top', 'Omnis', ''],
+	['W1D3B0D', 'Top', 'Omnis', 'Hip to be Square'],
 	['W1NN1NG', 'Mid', 'Zentorno', 'Molten Metal'],
 	['W1P3OUT', 'Mid', 'Coquette BlackFin', ''],
 	['WID3BOY', 'Mid', 'Entity XF', ''],
